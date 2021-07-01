@@ -401,6 +401,7 @@ img {
 
 .newsletter-form input:focus {
     box-shadow: 0 0 20px #00bcd4;
+    outline: 0;
 }
 
 .newsletter-form button {
